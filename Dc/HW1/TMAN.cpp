@@ -21,7 +21,7 @@ int main(int argc, char* argv[]){
 	char* R;
 	char* r;
 	vector<int> radii;
-	//cout << "N = " << N << " k = " << k << endl;
+	/cout << "N = " << N << " k = " << k << endl;
 
 	DRTopology* T;
 	BTTopology* BT;
