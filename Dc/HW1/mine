@@ -1,0 +1,4 @@
+set xlabel "X-->"
+set ylabel "Y-->"
+plot 'data.txt' with linespoints
+pause -1 "Hit any key to continue"
