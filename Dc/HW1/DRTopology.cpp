@@ -155,7 +155,7 @@ void DRTopology::createDataSet(){
 
 void DRTopology::plot(){
 	//cout << "MAKING SYSCALL\n";
-	system("gnuplot mine");
+	system("gnuplot plottingScript");
 
 }
 

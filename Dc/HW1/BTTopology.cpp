@@ -189,7 +189,7 @@ void BTTopology::createDataSet(){
 
 void BTTopology::plot(){
 	//cout << "MAKING SYSCALL\n";
-	system("gnuplot mine");
+	system("gnuplot plottingScript");
 
 }
 
